@@ -34,12 +34,16 @@
   },
   "name":"HiddenAlly",
   "resources":[
+    {"id":{"name":"obj_guard","path":"objects/obj_guard/obj_guard.yy",},},
+    {"id":{"name":"ClayTest","path":"rooms/ClayTest/ClayTest.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_guard","path":"sprites/spr_guard/spr_guard.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"ClayTest","path":"rooms/ClayTest/ClayTest.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
