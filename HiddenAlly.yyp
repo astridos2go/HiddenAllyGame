@@ -34,16 +34,18 @@
   },
   "name":"HiddenAlly",
   "resources":[
-    {"id":{"name":"Door","path":"objects/Door/Door.yy",},},
-    {"id":{"name":"Noah_Test","path":"rooms/Noah_Test/Noah_Test.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+	{"id":{"name":"Door","path":"objects/Door/Door.yy",},},
+    {"id":{"name":"Noah_Test","path":"rooms/Noah_Test/Noah_Test.yy",},},
+	{"id":{"name":"obj_guard","path":"objects/obj_guard/obj_guard.yy",},},
+    {"id":{"name":"ClayTest","path":"rooms/ClayTest/ClayTest.yy",},},
+	{"id":{"name":"spr_guard","path":"sprites/spr_guard/spr_guard.yy",},},
+	{"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"Noah_Test","path":"rooms/Noah_Test/Noah_Test.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
