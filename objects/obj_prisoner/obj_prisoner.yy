@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_prisoner",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_prisoner",
   "overriddenProperties":[],
@@ -23,11 +25,16 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"path_to_follow","filters":[],"listItems":[],"multiselect":false,"name":"path_to_follow","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"pth_start","path":"paths/pth_start/pth_start.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"pth_start","varType":5,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_prisoner",
+    "path":"sprites/spr_prisoner/spr_prisoner.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
