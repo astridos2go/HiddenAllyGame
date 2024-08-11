@@ -38,6 +38,7 @@
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"obj_guard","path":"objects/obj_guard/obj_guard.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
+    {"id":{"name":"obj_prisoner","path":"objects/obj_prisoner/obj_prisoner.yy",},},
     {"id":{"name":"rm_clay_test","path":"rooms/rm_clay_test/rm_clay_test.yy",},},
     {"id":{"name":"rm_molly_test","path":"rooms/rm_molly_test/rm_molly_test.yy",},},
     {"id":{"name":"rm_noah_test","path":"rooms/rm_noah_test/rm_noah_test.yy",},},
