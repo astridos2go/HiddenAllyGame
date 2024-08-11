@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"point_at_distance",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"point_at_distance",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
