@@ -34,12 +34,13 @@
   },
   "name":"HiddenAlly",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"MollyRoom","path":"rooms/MollyRoom/MollyRoom.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"MollyRoom","path":"rooms/MollyRoom/MollyRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
