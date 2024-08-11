@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -42,6 +42,7 @@
     {"id":{"name":"rm_clay_test","path":"rooms/rm_clay_test/rm_clay_test.yy",},},
     {"id":{"name":"rm_molly_test","path":"rooms/rm_molly_test/rm_molly_test.yy",},},
     {"id":{"name":"rm_noah_test","path":"rooms/rm_noah_test/rm_noah_test.yy",},},
+    {"id":{"name":"point_at_distance","path":"scripts/point_at_distance/point_at_distance.yy",},},
     {"id":{"name":"spr_guard","path":"sprites/spr_guard/spr_guard.yy",},},
   ],
   "resourceType":"GMProject",
