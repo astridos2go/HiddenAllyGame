@@ -72,9 +72,9 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"roomId":{"name":"rm_clay_test","path":"rooms/rm_clay_test/rm_clay_test.yy",},},
     {"roomId":{"name":"rm_molly_test","path":"rooms/rm_molly_test/rm_molly_test.yy",},},
     {"roomId":{"name":"rm_noah_test","path":"rooms/rm_noah_test/rm_noah_test.yy",},},
-    {"roomId":{"name":"rm_clay_test","path":"rooms/rm_clay_test/rm_clay_test.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
