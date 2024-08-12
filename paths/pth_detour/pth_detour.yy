@@ -1,0 +1,20 @@
+{
+  "$GMPath":"",
+  "%Name":"pth_detour",
+  "closed":false,
+  "kind":1,
+  "name":"pth_detour",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":224.0,"y":448.0,},
+    {"speed":100.0,"x":224.40002,"y":128.6,},
+    {"speed":100.0,"x":353.40002,"y":128.0,},
+    {"speed":100.0,"x":447.80002,"y":443.4,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

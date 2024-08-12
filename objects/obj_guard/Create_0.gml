@@ -1,3 +1,7 @@
-/// @description Gotta go fast
-speed = 5
-direction = 0
+/// @description vars
+
+self.rotation_speed = 1;
+
+self.vision_cone_angle = 20;
+self.vision_cone_length = 200;
+self.vision_cone_points = [];
