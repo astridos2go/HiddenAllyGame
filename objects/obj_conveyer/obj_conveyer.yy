@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_door",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_guard","path":"objects/obj_guard/obj_guard.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_conveyer",
+  "eventList":[],
   "managed":true,
-  "name":"obj_door",
+  "name":"obj_conveyer",
   "overriddenProperties":[],
   "parent":{
     "name":"environment",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_door_closed",
-    "path":"sprites/spr_door_closed/spr_door_closed.yy",
+    "name":"spr_conveyer",
+    "path":"sprites/spr_conveyer/spr_conveyer.yy",
   },
   "spriteMaskId":null,
   "visible":true,
