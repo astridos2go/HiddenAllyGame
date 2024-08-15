@@ -3,6 +3,6 @@
 
 paused = false;
 in_help = false;
-show_debug= false;
+show_debug = false;
 god_mode = false;
 global.game_frame = 0;
